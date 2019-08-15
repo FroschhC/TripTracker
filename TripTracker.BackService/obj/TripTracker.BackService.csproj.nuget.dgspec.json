@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chris Froschle\\Apps\\TripTracker.BackService\\TripTracker.BackService\\TripTracker.BackService.csproj": {}
+    "C:\\Users\\Chris Froschle\\Desktop\\Apps\\TripTracker.BackService\\TripTracker.BackService\\TripTracker.BackService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chris Froschle\\Apps\\TripTracker.BackService\\TripTracker.BackService\\TripTracker.BackService.csproj": {
+    "C:\\Users\\Chris Froschle\\Desktop\\Apps\\TripTracker.BackService\\TripTracker.BackService\\TripTracker.BackService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chris Froschle\\Apps\\TripTracker.BackService\\TripTracker.BackService\\TripTracker.BackService.csproj",
+        "projectUniqueName": "C:\\Users\\Chris Froschle\\Desktop\\Apps\\TripTracker.BackService\\TripTracker.BackService\\TripTracker.BackService.csproj",
         "projectName": "TripTracker.BackService",
-        "projectPath": "C:\\Users\\Chris Froschle\\Apps\\TripTracker.BackService\\TripTracker.BackService\\TripTracker.BackService.csproj",
+        "projectPath": "C:\\Users\\Chris Froschle\\Desktop\\Apps\\TripTracker.BackService\\TripTracker.BackService\\TripTracker.BackService.csproj",
         "packagesPath": "C:\\Users\\Chris Froschle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chris Froschle\\Apps\\TripTracker.BackService\\TripTracker.BackService\\obj\\",
+        "outputPath": "C:\\Users\\Chris Froschle\\Desktop\\Apps\\TripTracker.BackService\\TripTracker.BackService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,6 +57,14 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
             }
           },
           "imports": [
